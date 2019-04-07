@@ -1,3 +1,5 @@
+//inserts new users into database and retrieves users logging in
+
 <?php
 class User {
     private $db;

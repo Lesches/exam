@@ -1,3 +1,5 @@
+//Takes in all the user info, makes sure no fields are empty and validates them all
+
 <?php
 class Users extends Controller {
     public function __construct(){
